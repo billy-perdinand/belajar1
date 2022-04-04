@@ -38,6 +38,9 @@ header{
 	align-content: center;
 	z-index: 5;
 }
+header h2{
+	color: var(--color-white);
+}
 header ul{
 	display: flex;
 	width: 30%;
